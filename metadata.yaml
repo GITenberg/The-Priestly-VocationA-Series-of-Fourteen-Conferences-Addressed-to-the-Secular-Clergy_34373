@@ -1,0 +1,29 @@
+_repo: The-Priestly-VocationA-Series-of-Fourteen-Conferences-Addressed-to-the-Secular-Clergy_34373
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ward, Bernard
+    birthdate: 1857
+    deathdate: 1920
+    gutenberg_agent_id: '36980'
+    url: http://www.gutenberg.org/2009/agents/36980
+description: ''
+gutenberg_issued: '2010-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34373'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Vocation, Ecclesiastical'
+- !lcsh 'Priesthood -- Catholic Church'
+title: 'The Priestly Vocation
+
+  A Series of Fourteen Conferences Addressed to the Secular Clergy'
+url: http://www.gutenberg.org/ebooks/34373
